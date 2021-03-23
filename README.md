@@ -14,3 +14,10 @@
 ```
   > npm start
 ```
+
+### Recursos:
+
+ - React deate Picker
+
+  https://www.npmjs.com/package/react-datepicker
+  
