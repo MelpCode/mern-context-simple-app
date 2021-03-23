@@ -1,16 +1,23 @@
 # mern-context-app
 
-## Iniciar servicio de mongodb
+## 1. Iniciar servicio de mongodb:
+
+Linea de comandos
+
 ```
   > mongod
 ```
 
-## Iniciar Server
+## 2. Iniciar Server - Backend
+
+Linea de comandos - ruta del backend
 ```
   > npm run dev
 ```
 
-## Iniciar cliente
+## 3. Iniciar cliente - Frontend
+
+Linea de comandos - ruta del frontend
 ```
   > npm start
 ```
