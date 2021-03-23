@@ -2,15 +2,15 @@
 
 ## Iniciar servicio de mongodb
 ```
-  mongod
+  > mongod
 ```
 
 ## Iniciar Server
 ```
-  npm run dev
+  > npm run dev
 ```
 
 ## Iniciar cliente
 ```
-  npm start
+  > npm start
 ```
